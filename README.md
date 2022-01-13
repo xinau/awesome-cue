@@ -66,6 +66,10 @@ Security
 
 ## Resources
 
+Podcasts
+
+* [CUE: Configuration superpowers for everyone](https://changelog.com/gotime/163)
+
 References
 
 * [CUE Documentation](https://cuelang.org/docs/) - Official documentation about what CUE is and how to use it.
@@ -88,6 +92,7 @@ Tutorials/Examples
 Videos
 
 * [CUE: a data constraint language and shoo-in for Go. Marcel van Lohuizen, Google.](https://www.youtube.com/watch?v=b3fhA12KS48)
+* [GopherCon Europe 2020: Marcel van Lohuizen - Better APIs with Shareable Validation Logic](https://www.youtube.com/watch?v=IRNluM2B4p8)\
 * [TGI Kubernetes 098: CUE templating language](https://www.youtube.com/watch?v=pyfU_ne-kOc)
 * [Using CUE with GitHub Actions](https://www.youtube.com/watch?v=Ey3ca0K2h2U)
 
