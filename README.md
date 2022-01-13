@@ -23,25 +23,20 @@ Editor
 
 ## Projects
 
-Products
-
-* [CUE Playground](https://cuelang.org/play/#cue@export@cue) - Interactive playground for CUE 
-* [Dagger](https://dagger.io/) - A portable devkit for CICD
-* [Hofstadter](https://www.hofstadter.io/) - High Code™ - for higher velocity development.
-* [kubevela](https://github.com/oam-dev/kubevela) - KubeVela is a modern application delivery platform.
-* [kuegen](https://github.com/errordeveloper/kuegen) - kuegen is a simple config generator based on CUE.
-* [slo-cue](https://github.com/cbrgm/slo-cue) - Generate Prometheus alerting & recording rules for SLOs using CUE.
-* [Thema](https://github.com/grafana/thema) - A CUE-based framework for portable, evolvable schema.
-
-Tools
-
+* [CUE Playground](https://cuelang.org/play/#cue@export@cue) - Interactive playground for CUE
 * [cuebe](https://github.com/loft-orbital/cuebe) - Kubernetes release manager powered by CUE.
 * [cuelm](https://github.com/hofstadter-io/cuelm) - Pure CUE implementation of Helm Kubernetes package manager.
 * [cuemod](https://github.com/octohelm/cuemod) - Dependency management for CUE without committing cue.mod.
 * [Cuetils](https://github.com/hofstadter-io/cuetils) - CUE utilities and helpers for working with tree based objects in any combination of CUE, Yaml, and JSON.
 * [cute](https://github.com/yujinyan/cute) -  A cue-lang utility.
+* [Dagger](https://dagger.io/) - A portable devkit for CICD
+* [Hofstadter](https://www.hofstadter.io/) - High Code™ - for higher velocity development.
 * [injecuet](https://github.com/aereal/injecuet) - The injecuet injects concrete values and emits new CUE document.
+* [kubevela](https://github.com/oam-dev/kubevela) - KubeVela is a modern application delivery platform.
+* [kuegen](https://github.com/errordeveloper/kuegen) - kuegen is a simple config generator based on CUE.
+* [slo-cue](https://github.com/cbrgm/slo-cue) - Generate Prometheus alerting & recording rules for SLOs using CUE.
 * [stax](https://github.com/cue-sh/stax) - Go-based CLI for managing CloudFormation stacks written in Cue
+* [Thema](https://github.com/grafana/thema) - A CUE-based framework for portable, evolvable schema.
 * [unity](https://github.com/cue-lang/unity) - run experiments/regression tests on CUE modules.
 
 <!-- * [c8s](https://github.com/hofstadter-io/c8s) - Cuelang powered Kubernetes package manager. -->
