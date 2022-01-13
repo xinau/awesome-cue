@@ -85,6 +85,16 @@ Tutorials/Examples
 <!-- * [cue-examples](https://github.com/hofstadter-io/cue-examples) - Random examples demonstrating cuelang -->
 <!-- * [automata](https://github.com/uhthomas/automata) - Monorepo for Starjunk and subsidiaries -->
 
+Articles
+
+* [How CUE Wins](https://blog.cedriccharly.com/post/20210523-how-cue-wins/) by Cedric Charly
+<!-- * [The Configuration Complexity Curse](https://blog.cedriccharly.com/post/20191109-the-configuration-complexity-curse/) -->
+<!-- * [Automating the CUE workflow with Tilt](https://garethr.dev/2019/04/automating-the-cue-workflow-with-tilt/) -->
+<!-- * [Testing Cue Configuration with Open Policy Agent](https://garethr.dev/2019/04/testing-cue-configuration-with-open-policy-agent/) -->
+<!-- * [Configuring Kubernetes with CUE](https://garethr.dev/2019/04/configuring-kubernetes-with-cue/) -->
+<!-- * [Validating Cue Kubernetes Configuration with Kubeval](https://garethr.dev/2019/04/validating-cue-kubernetes-configuration-with-kubeval/) -->
+
+
 Videos
 
 * [Contributing to CUE](https://www.youtube.com/watch?v=_vxoYVYbwf8)
