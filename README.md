@@ -87,8 +87,12 @@ Tutorials/Examples
 
 Videos
 
+* [Contributing to CUE](https://www.youtube.com/watch?v=_vxoYVYbwf8)
 * [CUE: a data constraint language and shoo-in for Go. Marcel van Lohuizen, Google.](https://www.youtube.com/watch?v=b3fhA12KS48)
+* [CUE Town Hall #1](https://www.youtube.com/watch?v=Qp1F4AoSmxc)
 * [GopherCon Europe 2020: Marcel van Lohuizen - Better APIs with Shareable Validation Logic](https://www.youtube.com/watch?v=IRNluM2B4p8)
+* [Hands-on Introduction to CUE | Rawkode Live](https://www.youtube.com/watch?v=fR_yApIf6jU)
+* [Large-Scale Engineering of Configuration with Unification (Marcel van Lohuizen)](https://www.youtube.com/watch?v=jSRXobu1jHk)
 * [TGI Kubernetes 098: CUE templating language](https://www.youtube.com/watch?v=pyfU_ne-kOc)
 * [Using CUE with GitHub Actions](https://www.youtube.com/watch?v=Ey3ca0K2h2U)
 
@@ -105,6 +109,7 @@ Community Sites
 * [GitHub Discussion](github.com/cue-lang/cue/discussions) - GitHub Discussions to ask questions and discuss CUE.
 * [Slack](https://cuelang.slack.com) - Slack organization to chat with other CUE enthusiasts.
 * [Twitter](https://twitter.com/cue_lang) - Official Twitter Account to follow for announcements.
+* [Youtube](https://www.youtube.com/channel/UCZ0I6tZzFxN15H2SaclJA9A) - CUE community Youtube Channel
 
 ## Other
 
