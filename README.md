@@ -21,6 +21,10 @@ Editor
 * [vscode-cue](https://github.com/cue-sh/vscode-cue) - CUE language support for Visual Studio Code.
 * [vim-cue](https://github.com/jjo/vim-cue) - CUE syntax highlighting plugin for VIM.
 
+Templates
+
+* [cue-vscode-starter](https://github.com/golem-ai/cue-vscode-starter) - A VS Code Remote Containers project/environment made for CUE
+
 ## Projects
 
 * [CUE Playground](https://cuelang.org/play/#cue@export@cue) - Interactive playground for CUE
