@@ -12,6 +12,10 @@ CICD
 
 * [setup-cue](https://github.com/cue-lang/setup-cue) - GitHub actions workflow to install a specific version of CUE on your runner.
 
+Configuration Management
+
+* [terraform-provider-cue](https://github.com/xinau/terraform-provider-cue) - Terraform provider for interacting with CUE.
+
 Editor
 
 * [cue-mode](https://github.com/jdbaldry/cue-mode) -  Emacs major mode for CUE.
