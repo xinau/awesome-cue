@@ -34,6 +34,7 @@ Templates
 
 * [CUE Playground](https://cuelang.org/play/#cue@export@cue) - Interactive playground for CUE
 * [cuebe](https://github.com/loft-orbital/cuebe) - Kubernetes release manager powered by CUE.
+* [cuek8s](https://github.com/slewiskelly/cuek8s) - An experimental environment for a CUE based approach to Kubernetes manifest management. 
 * [cuelm](https://github.com/hofstadter-io/cuelm) - Pure CUE implementation of Helm Kubernetes package manager.
 * [cuemod](https://github.com/octohelm/cuemod) - Dependency management for CUE without committing cue.mod.
 * [Cuetils](https://github.com/hofstadter-io/cuetils) - CUE utilities and helpers for working with tree based objects in any combination of CUE, Yaml, and JSON.
