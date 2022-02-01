@@ -32,22 +32,30 @@ Templates
 
 ## Projects
 
+CUE
+
 * [CUE Playground](https://cuelang.org/play/#cue@export@cue) - Interactive playground for CUE
+* [cuemod](https://github.com/octohelm/cuemod) - Dependency management for CUE without committing cue.mod.
+* [Cuetils](https://github.com/hofstadter-io/cuetils) - CLI and library for diff, patch, and ETL operations on CUE
+* [unity](https://github.com/cue-lang/unity) - run experiments/regression tests on CUE modules.
+
+Kubernetes
+
 * [cuebe](https://github.com/loft-orbital/cuebe) - Kubernetes release manager powered by CUE.
 * [cuek8s](https://github.com/slewiskelly/cuek8s) - An experimental environment for a CUE based approach to Kubernetes manifest management. 
 * [cuelm](https://github.com/hofstadter-io/cuelm) - Pure CUE implementation of Helm Kubernetes package manager.
-* [cuemod](https://github.com/octohelm/cuemod) - Dependency management for CUE without committing cue.mod.
-* [Cuetils](https://github.com/hofstadter-io/cuetils) - CUE utilities and helpers for working with tree based objects in any combination of CUE, Yaml, and JSON.
+* [kubevela](https://github.com/oam-dev/kubevela) - KubeVela is a modern application delivery platform.
+
+Others
+
 * [cute](https://github.com/yujinyan/cute) -  A cue-lang utility.
 * [Dagger](https://dagger.io/) - A portable devkit for CICD
 * [Hofstadter](https://www.hofstadter.io/) - High Code™ - for higher velocity development.
 * [injecuet](https://github.com/aereal/injecuet) - The injecuet injects concrete values and emits new CUE document.
-* [kubevela](https://github.com/oam-dev/kubevela) - KubeVela is a modern application delivery platform.
 * [kuegen](https://github.com/errordeveloper/kuegen) - kuegen is a simple config generator based on CUE.
 * [slo-cue](https://github.com/cbrgm/slo-cue) - Generate Prometheus alerting & recording rules for SLOs using CUE.
 * [stax](https://github.com/cue-sh/stax) - Go-based CLI for managing CloudFormation stacks written in Cue
 * [Thema](https://github.com/grafana/thema) - A CUE-based framework for portable, evolvable schema.
-* [unity](https://github.com/cue-lang/unity) - run experiments/regression tests on CUE modules.
 
 <!-- * [c8s](https://github.com/hofstadter-io/c8s) - Cuelang powered Kubernetes package manager. -->
 <!-- * [systool](https://github.com/hdonnay/systool) - A proof of concept for using cue to generate shell scripts. -->
