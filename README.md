@@ -50,6 +50,7 @@ Others
 
 * [cute](https://github.com/yujinyan/cute) -  A cue-lang utility.
 * [Dagger](https://dagger.io/) - A portable devkit for CICD
+* [grpc-testing](https://github.com/ryoya-fujimoto/grpc-testing) - Testing and helper tool for grpc server, using cuelang and grpcurl.
 * [Hofstadter](https://www.hofstadter.io/) - High Code™ - for higher velocity development.
 * [injecuet](https://github.com/aereal/injecuet) - The injecuet injects concrete values and emits new CUE document.
 * [kuegen](https://github.com/errordeveloper/kuegen) - kuegen is a simple config generator based on CUE.
