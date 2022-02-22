@@ -42,6 +42,7 @@ CUE
 Kubernetes
 
 * [cuebe](https://github.com/loft-orbital/cuebe) - Kubernetes release manager powered by CUE.
+* [cue-flux-controller](https://github.com/phoban01/cue-flux-controller) - A Kubernetes controller for CUE via Flux.
 * [cuek8s](https://github.com/slewiskelly/cuek8s) - An experimental environment for a CUE based approach to Kubernetes manifest management. 
 * [cuelm](https://github.com/hofstadter-io/cuelm) - Pure CUE implementation of Helm Kubernetes package manager.
 * [kubevela](https://github.com/oam-dev/kubevela) - KubeVela is a modern application delivery platform.
@@ -102,7 +103,7 @@ Tutorials/Examples
 Articles
 
 * [How CUE Wins](https://blog.cedriccharly.com/post/20210523-how-cue-wins/)
-* [Observability-kit: Adventures of using CUE at scale](https://engineering.mercari.com/en/blog/entry/20220122-adventures-of-using-cue-at-scale/) 
+* [Observability-kit: Adventures of using CUE at scale](https://engineering.mercari.com/en/blog/entry/20220122-adventures-of-using-cue-at-scale/)
 <!-- * [The Configuration Complexity Curse](https://blog.cedriccharly.com/post/20191109-the-configuration-complexity-curse/) -->
 <!-- * [Automating the CUE workflow with Tilt](https://garethr.dev/2019/04/automating-the-cue-workflow-with-tilt/) -->
 <!-- * [Testing Cue Configuration with Open Policy Agent](https://garethr.dev/2019/04/testing-cue-configuration-with-open-policy-agent/) -->
