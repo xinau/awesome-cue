@@ -114,6 +114,7 @@ Articles
 
 Videos
 
+* [A practical guide to CUE: patterns for everyday use](https://fosdem.org/2022/schedule/event/cue_pratical_guide/)
 * [Contributing to CUE](https://www.youtube.com/watch?v=_vxoYVYbwf8)
 * [CUE: a data constraint language and shoo-in for Go. Marcel van Lohuizen, Google.](https://www.youtube.com/watch?v=b3fhA12KS48)
 * [CUE Town Hall #1](https://www.youtube.com/watch?v=Qp1F4AoSmxc)
@@ -122,7 +123,6 @@ Videos
 * [Large-Scale Engineering of Configuration with Unification (Marcel van Lohuizen)](https://www.youtube.com/watch?v=jSRXobu1jHk)
 * [TGI Kubernetes 098: CUE templating language](https://www.youtube.com/watch?v=pyfU_ne-kOc)
 * [Using CUE with GitHub Actions](https://www.youtube.com/watch?v=Ey3ca0K2h2U)
-* [A practical guide to CUE: patterns for everyday use](https://fosdem.org/2022/schedule/event/cue_pratical_guide/)
 
 Podcasts
 
