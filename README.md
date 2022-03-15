@@ -102,6 +102,7 @@ Tutorials/Examples
 
 Articles
 
+* [CCCCUE: Generating C4 diagrams with CUE](https://blog.owulveryck.info/2022/03/10/ccccue-generating-c4-diagrams-with-cue.html)
 * [How CUE Wins](https://blog.cedriccharly.com/post/20210523-how-cue-wins/)
 * [Observability-kit: Adventures of using CUE at scale](https://engineering.mercari.com/en/blog/entry/20220122-adventures-of-using-cue-at-scale/)
 * [Introduction to the CUE tooling layer](https://blog.patapon.info/cue-tool/)
