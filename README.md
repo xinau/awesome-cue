@@ -57,8 +57,9 @@ Others
 * [injecuet](https://github.com/aereal/injecuet) - The injecuet injects concrete values and emits new CUE document.
 * [kuegen](https://github.com/errordeveloper/kuegen) - kuegen is a simple config generator based on CUE.
 * [slo-cue](https://github.com/cbrgm/slo-cue) - Generate Prometheus alerting & recording rules for SLOs using CUE.
-* [stax](https://github.com/cue-sh/stax) - Go-based CLI for managing CloudFormation stacks written in Cue
+* [stax](https://github.com/cue-sh/stax) - Go-based CLI for managing CloudFormation stacks written in CUE
 * [Thema](https://github.com/grafana/thema) - A CUE-based framework for portable, evolvable schema.
+* [taxes.cue](https://github.com/tmm1/taxes.cue) - A tax organizer and calculator in CUE.
 
 <!-- * [c8s](https://github.com/hofstadter-io/c8s) - Cuelang powered Kubernetes package manager. -->
 <!-- * [systool](https://github.com/hdonnay/systool) - A proof of concept for using cue to generate shell scripts. -->
@@ -78,7 +79,7 @@ Configuration Management
 
 Security
 
-* [tmdl](https://github.com/abhaybhargav/tmdl) - Threat Model Definition Language using a declarative syntax with CUE. 
+* [tmdl](https://github.com/abhaybhargav/tmdl) - Threat Model Definition Language using a declarative syntax with CUE.
 
 ## Resources
 
