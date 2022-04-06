@@ -104,6 +104,7 @@ Tutorials/Examples
 
 Articles
 
+* [CUE is an exciting configuration language](https://bitfieldconsulting.com/golang/cuelang-exciting)
 * [CCCCUE: Generating C4 diagrams with CUE](https://blog.owulveryck.info/2022/03/10/ccccue-generating-c4-diagrams-with-cue.html)
 * [How CUE Wins](https://blog.cedriccharly.com/post/20210523-how-cue-wins/)
 * [Introduction to the CUE tooling layer](https://blog.patapon.info/cue-tool/)
