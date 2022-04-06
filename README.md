@@ -104,17 +104,17 @@ Tutorials/Examples
 
 Articles
 
+* [Automating the CUE workflow with Tilt](https://garethr.dev/2019/04/automating-the-cue-workflow-with-tilt/)
+* [Configuring Kubernetes with CUE](https://garethr.dev/2019/04/configuring-kubernetes-with-cue/)
 * [CUE is an exciting configuration language](https://bitfieldconsulting.com/golang/cuelang-exciting)
 * [CCCCUE: Generating C4 diagrams with CUE](https://blog.owulveryck.info/2022/03/10/ccccue-generating-c4-diagrams-with-cue.html)
 * [How CUE Wins](https://blog.cedriccharly.com/post/20210523-how-cue-wins/)
 * [Introduction to the CUE tooling layer](https://blog.patapon.info/cue-tool/)
 * [Kubernetes Configuration Management with CUE](https://engineering.mercari.com/en/blog/entry/20220127-kubernetes-configuration-management-with-cue/)
 * [Observability-kit: Adventures of using CUE at scale](https://engineering.mercari.com/en/blog/entry/20220122-adventures-of-using-cue-at-scale/)
-<!-- * [The Configuration Complexity Curse](https://blog.cedriccharly.com/post/20191109-the-configuration-complexity-curse/) -->
-<!-- * [Automating the CUE workflow with Tilt](https://garethr.dev/2019/04/automating-the-cue-workflow-with-tilt/) -->
-<!-- * [Testing Cue Configuration with Open Policy Agent](https://garethr.dev/2019/04/testing-cue-configuration-with-open-policy-agent/) -->
-<!-- * [Configuring Kubernetes with CUE](https://garethr.dev/2019/04/configuring-kubernetes-with-cue/) -->
-<!-- * [Validating Cue Kubernetes Configuration with Kubeval](https://garethr.dev/2019/04/validating-cue-kubernetes-configuration-with-kubeval/) -->
+* [Testing Cue Configuration with Open Policy Agent](https://garethr.dev/2019/04/testing-cue-configuration-with-open-policy-agent/)
+* [The Configuration Complexity Curse](https://blog.cedriccharly.com/post/20191109-the-configuration-complexity-curse/)
+* [Validating Cue Kubernetes Configuration with Kubeval](https://garethr.dev/2019/04/validating-cue-kubernetes-configuration-with-kubeval/)
 
 
 Videos
