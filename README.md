@@ -7,6 +7,7 @@ A curated list of awesome [CUE](https://cuelang.org/) projects, libraries, tools
 Build Tools
 
 * [rules_cue](https://github.com/tnarg/rules_cue) - CUE rules for Bazel.
+* [rules_cue](https://github.com/seh/rules_cue) -  CUE rules for Bazel.
 
 CICD
 
