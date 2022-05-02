@@ -31,6 +31,10 @@ Templates
 
 * [cue-vscode-starter](https://github.com/golem-ai/cue-vscode-starter) - A VS Code Remote Containers project/environment made for CUE
 
+Other
+
+* [Benthos configuration](https://www.benthos.dev/docs/configuration/using_cue/) - Build a Benthos configuration using CUE.
+
 ## Projects
 
 CUE
