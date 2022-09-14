@@ -47,6 +47,7 @@ CUE
 
 Kubernetes
 
+* [acorn](https://github.com/acorn-io/acorn) - A simple application deployment framework for Kubernetes.
 * [cuebe](https://github.com/loft-orbital/cuebe) - Kubernetes release manager powered by CUE.
 * [cue-flux-controller](https://github.com/phoban01/cue-flux-controller) - A Kubernetes controller for CUE via Flux.
 * [cuek8s](https://github.com/slewiskelly/cuek8s) - An experimental environment for a CUE based approach to Kubernetes manifest management. 
