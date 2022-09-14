@@ -35,6 +35,7 @@ Other
 
 * [Benthos configuration](https://www.benthos.dev/docs/configuration/using_cue/) - Build a Benthos configuration using CUE.
 * [cue-wasm](https://github.com/dclareio/cue-wasm) - WebAssembly based bindings for CUE in JavaScript.
+* [cuetsy](https://github.com/grafana/cuetsy/) -  Experimental CUE->TypeScript exporter.
 
 ## Projects
 
