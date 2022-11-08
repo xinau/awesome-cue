@@ -51,6 +51,7 @@ Kubernetes
 * [acorn](https://github.com/acorn-io/acorn) - A simple application deployment framework for Kubernetes.
 * [cuebe](https://github.com/loft-orbital/cuebe) - Kubernetes release manager powered by CUE.
 * [cue-flux-controller](https://github.com/phoban01/cue-flux-controller) - A Kubernetes controller for CUE via Flux.
+* [flux-local-dev](https://github.com/stefanprodan/flux-local-dev/blob/main/cue) - Flux local dev environment (CUE).
 * [cuek8s](https://github.com/slewiskelly/cuek8s) - An experimental environment for a CUE based approach to Kubernetes manifest management. 
 * [cuelm](https://github.com/hofstadter-io/cuelm) - Pure CUE implementation of Helm Kubernetes package manager.
 * [kubevela](https://github.com/oam-dev/kubevela) - KubeVela is a modern application delivery platform.
