@@ -24,7 +24,7 @@ Editor
 * [cue-mode](https://github.com/jdbaldry/cue-mode) -  Emacs major mode for CUE.
 * [cue-mode](https://github.com/russell/cue-mode) - Provides Emacs font-lock, indentation, and some useful functions for the CUE data validation language.
 * [intellij-cue](https://github.com/monogon-dev/intellij-cue) - IntelliJ support for the CUE language.
-* [tree-sitter-cue](https://github.com/eonpatapon/tree-sitter-cue) -  Cue grammar for tree-sitter.
+* [tree-sitter-cue](https://github.com/eonpatapon/tree-sitter-cue) -  CUE grammar for tree-sitter.
 * [vscode-cue](https://github.com/cue-sh/vscode-cue) - CUE language support for Visual Studio Code.
 * [vim-cue](https://github.com/jjo/vim-cue) - CUE syntax highlighting plugin for VIM.
 
@@ -60,11 +60,11 @@ Kubernetes
 
 Others
 
-* [cute](https://github.com/yujinyan/cute) -  A cue-lang utility.
+* [cute](https://github.com/yujinyan/cute) -  A CUE-lang utility.
 * [cue4puml4c4](https://github.com/owulveryck/cue4puml4c4) - POC to turn CUE into a plantuml/C4 diagram.
 * [Dagger](https://dagger.io/) - A portable devkit for CICD
 * [Encore](https://encore.dev/) - Encore is a Backend Development Engine.
-* [grpc-testing](https://github.com/ryoya-fujimoto/grpc-testing) - Testing and helper tool for grpc server, using cuelang and grpcurl.
+* [grpc-testing](https://github.com/ryoya-fujimoto/grpc-testing) - Testing and helper tool for grpc server, using CUE-lang and grpcurl.
 * [Hofstadter](https://www.hofstadter.io/) - High Code™ - for higher velocity development.
 * [injecuet](https://github.com/aereal/injecuet) - The injecuet injects concrete values and emits new CUE document.
 * [kuegen](https://github.com/errordeveloper/kuegen) - kuegen is a simple config generator based on CUE.
@@ -73,7 +73,7 @@ Others
 * [Thema](https://github.com/grafana/thema) - A CUE-based framework for portable, evolvable schema.
 * [taxes.cue](https://github.com/tmm1/taxes.cue) - A tax organizer and calculator in CUE.
 
-<!-- * [c8s](https://github.com/hofstadter-io/c8s) - Cuelang powered Kubernetes package manager. -->
+<!-- * [c8s](https://github.com/hofstadter-io/c8s) - CUE-lang powered Kubernetes package manager. -->
 <!-- * [systool](https://github.com/hdonnay/systool) - A proof of concept for using cue to generate shell scripts. -->
 
 ## Schemas
@@ -124,9 +124,9 @@ Articles
 * [Introduction to the CUE tooling layer](https://blog.patapon.info/cue-tool/)
 * [Kubernetes Configuration Management with CUE](https://engineering.mercari.com/en/blog/entry/20220127-kubernetes-configuration-management-with-cue/)
 * [Observability-kit: Adventures of using CUE at scale](https://engineering.mercari.com/en/blog/entry/20220122-adventures-of-using-cue-at-scale/)
-* [Testing Cue Configuration with Open Policy Agent](https://garethr.dev/2019/04/testing-cue-configuration-with-open-policy-agent/)
+* [Testing CUE Configuration with Open Policy Agent](https://garethr.dev/2019/04/testing-cue-configuration-with-open-policy-agent/)
 * [The Configuration Complexity Curse](https://blog.cedriccharly.com/post/20191109-the-configuration-complexity-curse/)
-* [Validating Cue Kubernetes Configuration with Kubeval](https://garethr.dev/2019/04/validating-cue-kubernetes-configuration-with-kubeval/)
+* [Validating CUE Kubernetes Configuration with Kubeval](https://garethr.dev/2019/04/validating-cue-kubernetes-configuration-with-kubeval/)
 
 
 Videos
