@@ -15,6 +15,7 @@ CICD
 
 Configuration Management
 
+* [packer-plugin-cue](https://github.com/dontlaugh/packer-plugin-cue) - Render files in your Packer builds with CUE.
 * [terraform-provider-cue](https://github.com/xinau/terraform-provider-cue) - Terraform provider for interacting with CUE.
 
 Editor
