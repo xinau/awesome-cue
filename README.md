@@ -138,6 +138,7 @@ Videos
 * [TGI Kubernetes 098: CUE templating language](https://www.youtube.com/watch?v=pyfU_ne-kOc)
 * [Using CUE with GitHub Actions](https://www.youtube.com/watch?v=Ey3ca0K2h2U)
 * [Go + CUE - A Match Made In Heaven! - Paul Jolly](https://www.youtube.com/watch?v=X1qpZBuNlgU)
+* [Experimenting with CUE and Carvel to Enable GitOps for Your Applications - Dmitriy Kalinin & Shatarupa Nandi](https://www.youtube.com/watch?v=ZhrXb78IT6k)
 
 Podcasts
 
