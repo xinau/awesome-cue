@@ -42,6 +42,7 @@ Other
 CUE
 
 * [CUE Playground](https://cuelang.org/play/#cue@export@cue) - Interactive playground for CUE
+* [cue-companion](https://github.com/kghenderson/cue-companion) - CUE-lang helper utility for debugging and development
 * [cuemod](https://github.com/octohelm/cuemod) - Dependency management for CUE without committing cue.mod.
 * [Cuetils](https://github.com/hofstadter-io/cuetils) - CLI and library for diff, patch, and ETL operations on CUE
 * [unity](https://github.com/cue-lang/unity) - run experiments/regression tests on CUE modules.
