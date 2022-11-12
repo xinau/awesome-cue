@@ -62,6 +62,7 @@ Others
 * [cute](https://github.com/yujinyan/cute) -  A cue-lang utility.
 * [cue4puml4c4](https://github.com/owulveryck/cue4puml4c4) - POC to turn CUE into a plantuml/C4 diagram.
 * [Dagger](https://dagger.io/) - A portable devkit for CICD
+* [Encore](https://encore.dev/) - Encore is a Backend Development Engine.
 * [grpc-testing](https://github.com/ryoya-fujimoto/grpc-testing) - Testing and helper tool for grpc server, using cuelang and grpcurl.
 * [Hofstadter](https://www.hofstadter.io/) - High Code™ - for higher velocity development.
 * [injecuet](https://github.com/aereal/injecuet) - The injecuet injects concrete values and emits new CUE document.
