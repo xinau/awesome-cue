@@ -26,6 +26,7 @@ Editor
 * [intellij-cue](https://github.com/monogon-dev/intellij-cue) - IntelliJ support for the CUE language.
 * [tree-sitter-cue](https://github.com/eonpatapon/tree-sitter-cue) -  CUE grammar for tree-sitter.
 * [vscode-cue](https://github.com/cue-sh/vscode-cue) - CUE language support for Visual Studio Code.
+* [vscode-cue](https://github.com/asdine/vscode-cue) - CUE for Visual Studio Code.
 * [vim-cue](https://github.com/jjo/vim-cue) - CUE syntax highlighting plugin for VIM.
 
 Templates
