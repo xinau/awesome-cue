@@ -137,6 +137,7 @@ Videos
 * [Large-Scale Engineering of Configuration with Unification (Marcel van Lohuizen)](https://www.youtube.com/watch?v=jSRXobu1jHk)
 * [TGI Kubernetes 098: CUE templating language](https://www.youtube.com/watch?v=pyfU_ne-kOc)
 * [Using CUE with GitHub Actions](https://www.youtube.com/watch?v=Ey3ca0K2h2U)
+* [Go + CUE - A Match Made In Heaven! - Paul Jolly](https://www.youtube.com/watch?v=X1qpZBuNlgU)
 
 Podcasts
 
