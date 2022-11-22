@@ -164,4 +164,5 @@ Community Sites
 
 ## Other
 
+* [awesome-cue](https://github.com/staticaland/awesome-cue) - Awesome CUE
 * [awesome-cue-zh](https://github.com/chai2010/awesome-cue-zh) - CUE Resource Selection - Chinese Version
