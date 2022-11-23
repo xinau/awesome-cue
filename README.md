@@ -23,6 +23,7 @@ Editor
 * [astexplorer-cue](https://github.com/brandonbloom/astexplorer-cue) - Ast Explorer support for CUE.
 * [cue-mode](https://github.com/jdbaldry/cue-mode) -  Emacs major mode for CUE.
 * [cue-mode](https://github.com/russell/cue-mode) - Provides Emacs font-lock, indentation, and some useful functions for the CUE data validation language.
+* [cuelsp](https://github.com/dagger/cuelsp) - Language Server implementation for CUE, with built-in support for Dagger.
 * [intellij-cue](https://github.com/monogon-dev/intellij-cue) - IntelliJ support for the CUE language.
 * [tree-sitter-cue](https://github.com/eonpatapon/tree-sitter-cue) -  CUE grammar for tree-sitter.
 * [vscode-cue](https://github.com/cue-sh/vscode-cue) - CUE language support for Visual Studio Code.
