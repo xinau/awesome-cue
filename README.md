@@ -71,6 +71,7 @@ Others
 * [Encore](https://encore.dev/) - Encore is a Backend Development Engine.
 * [grpc-testing](https://github.com/ryoya-fujimoto/grpc-testing) - Testing and helper tool for grpc server, using CUE-lang and grpcurl.
 * [Hofstadter](https://www.hofstadter.io/) - High Code™ - for higher velocity development.
+* [inngest](https://github.com/inngest/inngest) - Inngest is an open-source, event-driven platform.
 * [injecuet](https://github.com/aereal/injecuet) - The injecuet injects concrete values and emits new CUE document.
 * [kuegen](https://github.com/errordeveloper/kuegen) - kuegen is a simple config generator based on CUE.
 * [namespace](https://github.com/namespacelabs/foundation) - Namespace is an application development platform.
