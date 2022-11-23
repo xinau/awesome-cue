@@ -64,6 +64,7 @@ Others
 
 * [cute](https://github.com/yujinyan/cute) -  A CUE-lang utility.
 * [cue4puml4c4](https://github.com/owulveryck/cue4puml4c4) - POC to turn CUE into a plantuml/C4 diagram.
+* [CueBlox](https://github.com/cueblox/blox) - The All-in-One Batteries Included Data Framework
 * [cueconfig](https://github.com/cue-exp/cueconfig) - Use CUE to configure your Go programs.
 * [cueimports](https://github.com/asdine/cueimports) - CUE tool that manages your import lines.
 * [Dagger](https://dagger.io/) - A portable devkit for CICD
