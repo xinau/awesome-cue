@@ -69,6 +69,7 @@ Others
 * [cueimports](https://github.com/asdine/cueimports) - CUE tool that manages your import lines.
 * [Dagger](https://dagger.io/) - A portable devkit for CICD
 * [Encore](https://encore.dev/) - Encore is a Backend Development Engine.
+* [FRSCA](https://github.com/buildsec/frsca) - Factory for Repeatable Secure Creation of Artifacts.
 * [grpc-testing](https://github.com/ryoya-fujimoto/grpc-testing) - Testing and helper tool for grpc server, using CUE-lang and grpcurl.
 * [Hofstadter](https://www.hofstadter.io/) - High Code™ - for higher velocity development.
 * [inngest](https://github.com/inngest/inngest) - Inngest is an open-source, event-driven platform.
