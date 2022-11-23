@@ -2,86 +2,58 @@
 
 A curated list of awesome [CUE](https://cuelang.org/) projects, libraries, tools and resources.
 
-## Integrations
-
-Build Tools
-
-* [rules_cue](https://github.com/tnarg/rules_cue) - CUE rules for Bazel.
-* [rules_cue](https://github.com/seh/rules_cue) -  CUE rules for Bazel.
-
-CICD
-
-* [setup-cue](https://github.com/cue-lang/setup-cue) - GitHub actions workflow to install a specific version of CUE on your runner.
-
-Configuration Management
-
-* [packer-plugin-cue](https://github.com/dontlaugh/packer-plugin-cue) - Render files in your Packer builds with CUE.
-* [terraform-provider-cue](https://github.com/xinau/terraform-provider-cue) - Terraform provider for interacting with CUE.
-
-Editor
-
-* [astexplorer-cue](https://github.com/brandonbloom/astexplorer-cue) - Ast Explorer support for CUE.
-* [cue-mode](https://github.com/jdbaldry/cue-mode) -  Emacs major mode for CUE.
-* [cue-mode](https://github.com/russell/cue-mode) - Provides Emacs font-lock, indentation, and some useful functions for the CUE data validation language.
-* [cuelsp](https://github.com/dagger/cuelsp) - Language Server implementation for CUE, with built-in support for Dagger.
-* [intellij-cue](https://github.com/monogon-dev/intellij-cue) - IntelliJ support for the CUE language.
-* [tree-sitter-cue](https://github.com/eonpatapon/tree-sitter-cue) -  CUE grammar for tree-sitter.
-* [vscode-cue](https://github.com/cue-sh/vscode-cue) - CUE language support for Visual Studio Code.
-* [vscode-cue](https://github.com/asdine/vscode-cue) - CUE for Visual Studio Code.
-* [vim-cue](https://github.com/jjo/vim-cue) - CUE syntax highlighting plugin for VIM.
-
-Templates
-
-* [cue-vscode-starter](https://github.com/golem-ai/cue-vscode-starter) - A VS Code Remote Containers project/environment made for CUE
-
-Other
-
-* [Benthos configuration](https://www.benthos.dev/docs/configuration/using_cue/) - Build a Benthos configuration using CUE.
-* [cue-wasm](https://github.com/dclareio/cue-wasm) - WebAssembly based bindings for CUE in JavaScript.
-* [cuetsy](https://github.com/grafana/cuetsy/) -  Experimental CUE->TypeScript exporter.
-
 ## Projects
 
-CUE
-
-* [CUE Playground](https://cuelang.org/play/#cue@export@cue) - Interactive playground for CUE
-* [cue-companion](https://github.com/kghenderson/cue-companion) - CUE-lang helper utility for debugging and development
-* [cuemod](https://github.com/octohelm/cuemod) - Dependency management for CUE without committing cue.mod.
-* [Cuetils](https://github.com/hofstadter-io/cuetils) - CLI and library for diff, patch, and ETL operations on CUE
-* [unity](https://github.com/cue-lang/unity) - run experiments/regression tests on CUE modules.
-
-Kubernetes
-
 * [acorn](https://github.com/acorn-io/acorn) - A simple application deployment framework for Kubernetes.
-* [cuebe](https://github.com/loft-orbital/cuebe) - Kubernetes release manager powered by CUE.
+* [astexplorer-cue](https://github.com/brandonbloom/astexplorer-cue) - Ast Explorer support for CUE.
+* [Benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
+* [CUE Playground](https://cuelang.org/play/#cue@export@cue) - Interactive playground for CUE
 * [cue-flux-controller](https://github.com/phoban01/cue-flux-controller) - A Kubernetes controller for CUE via Flux.
-* [flux-local-dev](https://github.com/stefanprodan/flux-local-dev/blob/main/cue) - Flux local dev environment (CUE).
-* [cuek8s](https://github.com/slewiskelly/cuek8s) - An experimental environment for a CUE based approach to Kubernetes manifest management. 
-* [cuelm](https://github.com/hofstadter-io/cuelm) - Pure CUE implementation of Helm Kubernetes package manager.
-* [kubevela](https://github.com/oam-dev/kubevela) - KubeVela is a modern application delivery platform.
-
-Others
-
-* [cute](https://github.com/yujinyan/cute) -  A CUE-lang utility.
+* [cue-companion](https://github.com/kghenderson/cue-companion) - CUE-lang helper utility for debugging and development
+* [cue-mode](https://github.com/jdbaldry/cue-mode) -  Emacs major mode for CUE.
+* [cue-mode](https://github.com/russell/cue-mode) - Provides Emacs font-lock, indentation, and some useful functions for the CUE data validation language.
+* [cue-vscode-starter](https://github.com/golem-ai/cue-vscode-starter) - A VS Code Remote Containers project/environment made for CUE
+* [cue-wasm](https://github.com/dclareio/cue-wasm) - WebAssembly based bindings for CUE in JavaScript.
 * [cue4puml4c4](https://github.com/owulveryck/cue4puml4c4) - POC to turn CUE into a plantuml/C4 diagram.
 * [CueBlox](https://github.com/cueblox/blox) - The All-in-One Batteries Included Data Framework
+* [cuebe](https://github.com/loft-orbital/cuebe) - Kubernetes release manager powered by CUE.
 * [cueconfig](https://github.com/cue-exp/cueconfig) - Use CUE to configure your Go programs.
 * [cueimports](https://github.com/asdine/cueimports) - CUE tool that manages your import lines.
+* [cuelm](https://github.com/hofstadter-io/cuelm) - Pure CUE implementation of Helm Kubernetes package manager.
+* [cuelsp](https://github.com/dagger/cuelsp) - Language Server implementation for CUE, with built-in support for Dagger.
+* [cuek8s](https://github.com/slewiskelly/cuek8s) - An experimental environment for a CUE based approach to Kubernetes manifest management. 
+* [cuemod](https://github.com/octohelm/cuemod) - Dependency management for CUE without committing cue.mod.
+* [Cuetils](https://github.com/hofstadter-io/cuetils) - CLI and library for diff, patch, and ETL operations on CUE
+* [cuetsy](https://github.com/grafana/cuetsy/) -  Experimental CUE->TypeScript exporter.
+* [cute](https://github.com/yujinyan/cute) -  A CUE-lang utility.
 * [Dagger](https://dagger.io/) - A portable devkit for CICD
 * [Encore](https://encore.dev/) - Encore is a Backend Development Engine.
+* [flux-local-dev](https://github.com/stefanprodan/flux-local-dev/blob/main/cue) - Flux local dev environment (CUE).
 * [FRSCA](https://github.com/buildsec/frsca) - Factory for Repeatable Secure Creation of Artifacts.
 * [grpc-testing](https://github.com/ryoya-fujimoto/grpc-testing) - Testing and helper tool for grpc server, using CUE-lang and grpcurl.
 * [Hofstadter](https://www.hofstadter.io/) - High Code™ - for higher velocity development.
 * [inngest](https://github.com/inngest/inngest) - Inngest is an open-source, event-driven platform.
 * [injecuet](https://github.com/aereal/injecuet) - The injecuet injects concrete values and emits new CUE document.
+* [intellij-cue](https://github.com/monogon-dev/intellij-cue) - IntelliJ support for the CUE language.
+* [kubevela](https://github.com/oam-dev/kubevela) - KubeVela is a modern application delivery platform.
 * [kuegen](https://github.com/errordeveloper/kuegen) - kuegen is a simple config generator based on CUE.
 * [namespace](https://github.com/namespacelabs/foundation) - Namespace is an application development platform.
 * [NetMeta](https://github.com/monogon-dev/NetMeta) - NetMeta is a scalable network observability toolkit optimized for performance.
+* [packer-plugin-cue](https://github.com/dontlaugh/packer-plugin-cue) - Render files in your Packer builds with CUE.
 * [polly](https://github.com/pollypkg/polly) - Parameterized Observability Packages 
+* [rules_cue](https://github.com/tnarg/rules_cue) - CUE rules for Bazel.
+* [rules_cue](https://github.com/seh/rules_cue) -  CUE rules for Bazel.
+* [setup-cue](https://github.com/cue-lang/setup-cue) - GitHub actions workflow to install a specific version of CUE on your runner.
 * [slo-cue](https://github.com/cbrgm/slo-cue) - Generate Prometheus alerting & recording rules for SLOs using CUE.
 * [stax](https://github.com/cue-sh/stax) - Go-based CLI for managing CloudFormation stacks written in CUE
-* [Thema](https://github.com/grafana/thema) - A CUE-based framework for portable, evolvable schema.
 * [taxes.cue](https://github.com/tmm1/taxes.cue) - A tax organizer and calculator in CUE.
+* [terraform-provider-cue](https://github.com/xinau/terraform-provider-cue) - Terraform provider for interacting with CUE.
+* [Thema](https://github.com/grafana/thema) - A CUE-based framework for portable, evolvable schema.
+* [tree-sitter-cue](https://github.com/eonpatapon/tree-sitter-cue) -  CUE grammar for tree-sitter.
+* [unity](https://github.com/cue-lang/unity) - run experiments/regression tests on CUE modules.
+* [vim-cue](https://github.com/jjo/vim-cue) - CUE syntax highlighting plugin for VIM.
+* [vscode-cue](https://github.com/cue-sh/vscode-cue) - CUE language support for Visual Studio Code.
+* [vscode-cue](https://github.com/asdine/vscode-cue) - CUE for Visual Studio Code.
 
 <!-- * [c8s](https://github.com/hofstadter-io/c8s) - CUE-lang powered Kubernetes package manager. -->
 <!-- * [systool](https://github.com/hdonnay/systool) - A proof of concept for using cue to generate shell scripts. -->
