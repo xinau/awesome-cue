@@ -73,6 +73,7 @@ Others
 * [Hofstadter](https://www.hofstadter.io/) - High Code™ - for higher velocity development.
 * [injecuet](https://github.com/aereal/injecuet) - The injecuet injects concrete values and emits new CUE document.
 * [kuegen](https://github.com/errordeveloper/kuegen) - kuegen is a simple config generator based on CUE.
+* [namespace](https://github.com/namespacelabs/foundation) - Namespace is an application development platform.
 * [NetMeta](https://github.com/monogon-dev/NetMeta) - NetMeta is a scalable network observability toolkit optimized for performance.
 * [slo-cue](https://github.com/cbrgm/slo-cue) - Generate Prometheus alerting & recording rules for SLOs using CUE.
 * [stax](https://github.com/cue-sh/stax) - Go-based CLI for managing CloudFormation stacks written in CUE
