@@ -109,6 +109,7 @@ Articles
 * [Testing CUE Configuration with Open Policy Agent](https://garethr.dev/2019/04/testing-cue-configuration-with-open-policy-agent/)
 * [The Configuration Complexity Curse](https://blog.cedriccharly.com/post/20191109-the-configuration-complexity-curse/)
 * [Validating CUE Kubernetes Configuration with Kubeval](https://garethr.dev/2019/04/validating-cue-kubernetes-configuration-with-kubeval/)
+* [Validating Helm values with CUE](https://guku.io/blog/validating-helm-values)
 
 
 Videos
