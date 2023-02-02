@@ -7,13 +7,15 @@ A curated list of awesome [CUE](https://cuelang.org/) projects, libraries, tools
 * [acorn](https://github.com/acorn-io/acorn) - A simple application deployment framework for Kubernetes.
 * [astexplorer-cue](https://github.com/brandonbloom/astexplorer-cue) - Ast Explorer support for CUE.
 * [Benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
+* [cfn-cue](https://github.com/cue-sh/cfn-cue) - Generated CUE schema from CloudFormation Resource Specification.
 * [CUE Playground](https://cuelang.org/play/#cue@export@cue) - Interactive playground for CUE
-* [cue-flux-controller](https://github.com/phoban01/cue-flux-controller) - A Kubernetes controller for CUE via Flux.
 * [cue-companion](https://github.com/kghenderson/cue-companion) - CUE-lang helper utility for debugging and development
+* [cue-flux-controller](https://github.com/phoban01/cue-flux-controller) - A Kubernetes controller for CUE via Flux.
 * [cue-mode](https://github.com/jdbaldry/cue-mode) -  Emacs major mode for CUE.
 * [cue-mode](https://github.com/russell/cue-mode) - Provides Emacs font-lock, indentation, and some useful functions for the CUE data validation language.
 * [cue-vscode-starter](https://github.com/golem-ai/cue-vscode-starter) - A VS Code Remote Containers project/environment made for CUE
 * [cue-wasm](https://github.com/dclareio/cue-wasm) - WebAssembly based bindings for CUE in JavaScript.
+* [cue_terraform](https://github.com/tnarg/cue_terraform) -  CUE definitions for terraform providers.
 * [cue4puml4c4](https://github.com/owulveryck/cue4puml4c4) - POC to turn CUE into a plantuml/C4 diagram.
 * [CueBlox](https://github.com/cueblox/blox) - The All-in-One Batteries Included Data Framework
 * [cuebe](https://github.com/loft-orbital/cuebe) - Kubernetes release manager powered by CUE.
@@ -30,6 +32,7 @@ A curated list of awesome [CUE](https://cuelang.org/) projects, libraries, tools
 * [Encore](https://encore.dev/) - Encore is a Backend Development Engine.
 * [flux-local-dev](https://github.com/stefanprodan/flux-local-dev/blob/main/cue) - Flux local dev environment (CUE).
 * [FRSCA](https://github.com/buildsec/frsca) - Factory for Repeatable Secure Creation of Artifacts.
+* [ghacue](https://github.com/hofstadter-io/ghacue) - GitHub Actions schema in CUE
 * [grpc-testing](https://github.com/ryoya-fujimoto/grpc-testing) - Testing and helper tool for grpc server, using CUE-lang and grpcurl.
 * [Hofstadter](https://www.hofstadter.io/) - High Code™ - for higher velocity development.
 * [inngest](https://github.com/inngest/inngest) - Inngest is an open-source, event-driven platform.
@@ -49,6 +52,7 @@ A curated list of awesome [CUE](https://cuelang.org/) projects, libraries, tools
 * [taxes.cue](https://github.com/tmm1/taxes.cue) - A tax organizer and calculator in CUE.
 * [terraform-provider-cue](https://github.com/xinau/terraform-provider-cue) - Terraform provider for interacting with CUE.
 * [Thema](https://github.com/grafana/thema) - A CUE-based framework for portable, evolvable schema.
+* [tmdl](https://github.com/abhaybhargav/tmdl) - Threat Model Definition Language using a declarative syntax with CUE.
 * [tree-sitter-cue](https://github.com/eonpatapon/tree-sitter-cue) -  CUE grammar for tree-sitter.
 * [unity](https://github.com/cue-lang/unity) - run experiments/regression tests on CUE modules.
 * [vim-cue](https://github.com/jjo/vim-cue) - CUE syntax highlighting plugin for VIM.
@@ -57,23 +61,7 @@ A curated list of awesome [CUE](https://cuelang.org/) projects, libraries, tools
 
 <!-- * [c8s](https://github.com/hofstadter-io/c8s) - CUE-lang powered Kubernetes package manager. -->
 <!-- * [systool](https://github.com/hdonnay/systool) - A proof of concept for using cue to generate shell scripts. -->
-
-## Schemas
-
-CICD
-
-* [ghacue](https://github.com/hofstadter-io/ghacue) - GitHub Actions schema in CUE
-
 <!-- * [cue-ansible](https://github.com/adieu/cue-ansible) - Write Ansible Playbooks in CUE -->
-
-Configuration Management
-
-* [cfn-cue](https://github.com/cue-sh/cfn-cue) - Generated CUE schema from CloudFormation Resource Specification.
-* [cue_terraform](https://github.com/tnarg/cue_terraform) -  CUE definitions for terraform providers.
-
-Security
-
-* [tmdl](https://github.com/abhaybhargav/tmdl) - Threat Model Definition Language using a declarative syntax with CUE.
 
 ## Resources
 
