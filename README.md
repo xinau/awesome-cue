@@ -56,6 +56,7 @@ A curated list of awesome [CUE](https://cuelang.org/) projects, libraries, tools
 * [stax](https://github.com/cue-sh/stax) - Go-based CLI for managing CloudFormation stacks written in CUE.
 * [taxes.cue](https://github.com/tmm1/taxes.cue) - A tax organizer and calculator in CUE.
 * [terraform-provider-cue](https://github.com/xinau/terraform-provider-cue) - Terraform provider for interacting with CUE.
+* [terraform-provider-cue](https://github.com/poseidon/terraform-provider-cue) - Terraform provider for evaluting CUE to render JSON.
 * [Thema](https://github.com/grafana/thema) - A CUE-based framework for portable, evolvable schema.
 * [tmdl](https://github.com/abhaybhargav/tmdl) - Threat Model Definition Language using a declarative syntax with CUE.
 * [tree-sitter-cue](https://github.com/eonpatapon/tree-sitter-cue) -  CUE grammar for tree-sitter.
