@@ -6,9 +6,9 @@ A curated list of awesome [CUE](https://cuelang.org/) projects, libraries, tools
 
 * [acorn](https://github.com/acorn-io/acorn) - A simple application deployment framework for Kubernetes.
 * [astexplorer-cue](https://github.com/brandonbloom/astexplorer-cue) - Ast Explorer support for CUE.
-* [Benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane.
+* [benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane.
 * [cfn-cue](https://github.com/cue-sh/cfn-cue) - Generated CUE schema from CloudFormation Resource Specification.
-* [CUE Playground](https://cuelang.org/play/#cue@export@cue) - Interactive playground for CUE.
+* [cue playground](https://cuelang.org/play/#cue@export@cue) - Interactive playground for CUE.
 * [cue-companion](https://github.com/kghenderson/cue-companion) - CUE-lang helper utility for debugging and development.
 * [cue-flux-controller](https://github.com/phoban01/cue-flux-controller) - A Kubernetes controller for CUE via Flux.
 * [cue-mode](https://github.com/jdbaldry/cue-mode) -  Emacs major mode for CUE.
@@ -17,7 +17,7 @@ A curated list of awesome [CUE](https://cuelang.org/) projects, libraries, tools
 * [cue-wasm](https://github.com/dclareio/cue-wasm) - WebAssembly based bindings for CUE in JavaScript.
 * [cue_terraform](https://github.com/tnarg/cue_terraform) -  CUE definitions for terraform providers.
 * [cue4puml4c4](https://github.com/owulveryck/cue4puml4c4) - POC to turn CUE into a plantuml/C4 diagram.
-* [cueBlox](https://github.com/cueblox/blox) - The All-in-One Batteries Included Data Framework
+* [cueblox](https://github.com/cueblox/blox) - The All-in-One Batteries Included Data Framework
 * [cuebe](https://github.com/loft-orbital/cuebe) - Kubernetes release manager powered by CUE.
 * [cueconfig](https://github.com/cue-exp/cueconfig) - Use CUE to configure your Go programs.
 * [cuegen](https://github.com/noris-network/cuegen) - Cuegen is a tool to build kubernetes resources with CUE.
@@ -26,19 +26,19 @@ A curated list of awesome [CUE](https://cuelang.org/) projects, libraries, tools
 * [cuelsp](https://github.com/dagger/cuelsp) - Language Server implementation for CUE, with built-in support for Dagger.
 * [cuek8s](https://github.com/slewiskelly/cuek8s) - An experimental environment for a CUE based approach to Kubernetes manifest management. 
 * [cuemod](https://github.com/octohelm/cuemod) - Dependency management for CUE without committing cue.mod.
-* [Cuetils](https://github.com/hofstadter-io/cuetils) - CLI and library for diff, patch, and ETL operations on CUE
+* [cuetils](https://github.com/hofstadter-io/cuetils) - CLI and library for diff, patch, and ETL operations on CUE
 * [cuetsy](https://github.com/grafana/cuetsy/) -  Experimental CUE->TypeScript exporter.
 * [cuex](https://github.com/kubevela/pkg/tree/main/cue/cuex) - CUEX: Extended CUE Compiler.
 * [cute](https://github.com/yujinyan/cute) -  A CUE-lang utility.
-* [Dagger](https://dagger.io/) - A portable devkit for CICD.
+* [dagger](https://dagger.io/) - A portable devkit for CICD.
 * [devx](https://github.com/devopzilla/guku-devx) - Build flexible & composable infrastructure abstractions for all your platform engineering tools.
 * [devx-catalog](https://github.com/devopzilla/guku-devx-catalog) - DevX Schema and Catalog.
-* [Encore](https://encore.dev/) - Encore is a Backend Development Engine.
+* [encore](https://encore.dev/) - Encore is a Backend Development Engine.
 * [flux-local-dev](https://github.com/stefanprodan/flux-local-dev/blob/main/cue) - Flux local dev environment (CUE).
-* [FRSCA](https://github.com/buildsec/frsca) - Factory for Repeatable Secure Creation of Artifacts.
+* [frsca](https://github.com/buildsec/frsca) - Factory for Repeatable Secure Creation of Artifacts.
 * [ghacue](https://github.com/hofstadter-io/ghacue) - GitHub Actions schema in CUE.
 * [grpc-testing](https://github.com/ryoya-fujimoto/grpc-testing) - Testing and helper tool for grpc server, using CUE-lang and grpcurl.
-* [Hofstadter](https://www.hofstadter.io/) - High Code™ - for higher velocity development.
+* [hofstadter](https://www.hofstadter.io/) - High Code™ - for higher velocity development.
 * [inngest](https://github.com/inngest/inngest) - Inngest is an open-source, event-driven platform.
 * [injecuet](https://github.com/aereal/injecuet) - The injecuet injects concrete values and emits new CUE document.
 * [intellij-cue](https://github.com/monogon-dev/intellij-cue) - IntelliJ support for the CUE language.
@@ -46,7 +46,7 @@ A curated list of awesome [CUE](https://cuelang.org/) projects, libraries, tools
 * [kubevela-catalog](https://github.com/kubevela/catalog) - KubeVela Catalog of community maintained components and traits. 
 * [kuegen](https://github.com/errordeveloper/kuegen) - kuegen is a simple config generator based on CUE.
 * [namespace](https://github.com/namespacelabs/foundation) - Namespace is an application development platform.
-* [NetMeta](https://github.com/monogon-dev/NetMeta) - NetMeta is a scalable network observability toolkit optimized for performance.
+* [netmeta](https://github.com/monogon-dev/NetMeta) - NetMeta is a scalable network observability toolkit optimized for performance.
 * [packer-plugin-cue](https://github.com/dontlaugh/packer-plugin-cue) - Render files in your Packer builds with CUE.
 * [polly](https://github.com/pollypkg/polly) - Parameterized Observability Packages.
 * [rules_cue](https://github.com/tnarg/rules_cue) - CUE rules for Bazel.
@@ -57,7 +57,7 @@ A curated list of awesome [CUE](https://cuelang.org/) projects, libraries, tools
 * [taxes.cue](https://github.com/tmm1/taxes.cue) - A tax organizer and calculator in CUE.
 * [terraform-provider-cue](https://github.com/xinau/terraform-provider-cue) - Terraform provider for interacting with CUE.
 * [terraform-provider-cue](https://github.com/poseidon/terraform-provider-cue) - Terraform provider for evaluting CUE to render JSON.
-* [Thema](https://github.com/grafana/thema) - A CUE-based framework for portable, evolvable schema.
+* [thema](https://github.com/grafana/thema) - A CUE-based framework for portable, evolvable schema.
 * [tmdl](https://github.com/abhaybhargav/tmdl) - Threat Model Definition Language using a declarative syntax with CUE.
 * [tree-sitter-cue](https://github.com/eonpatapon/tree-sitter-cue) -  CUE grammar for tree-sitter.
 * [unity](https://github.com/cue-lang/unity) - run experiments/regression tests on CUE modules.
@@ -139,3 +139,15 @@ Community Sites
 
 * [awesome-cue](https://github.com/staticaland/awesome-cue) - Awesome CUE
 * [awesome-cue-zh](https://github.com/chai2010/awesome-cue-zh) - CUE Resource Selection - Chinese Version
+
+## Style Guide
+
+This awesome page uses the following style guidelines to make it easier to read.
+
+1. The word CUE must be written in uppercase.
+2. All lists must be sorted.
+3. The link name in the projects section must be lowercase.
+
+## License
+
+This project is under [MIT license](./LICENSE)
