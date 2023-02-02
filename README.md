@@ -6,20 +6,21 @@ A curated list of awesome [CUE](https://cuelang.org/) projects, libraries, tools
 
 * [acorn](https://github.com/acorn-io/acorn) - A simple application deployment framework for Kubernetes.
 * [astexplorer-cue](https://github.com/brandonbloom/astexplorer-cue) - Ast Explorer support for CUE.
-* [Benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
+* [Benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane.
 * [cfn-cue](https://github.com/cue-sh/cfn-cue) - Generated CUE schema from CloudFormation Resource Specification.
-* [CUE Playground](https://cuelang.org/play/#cue@export@cue) - Interactive playground for CUE
-* [cue-companion](https://github.com/kghenderson/cue-companion) - CUE-lang helper utility for debugging and development
+* [CUE Playground](https://cuelang.org/play/#cue@export@cue) - Interactive playground for CUE.
+* [cue-companion](https://github.com/kghenderson/cue-companion) - CUE-lang helper utility for debugging and development.
 * [cue-flux-controller](https://github.com/phoban01/cue-flux-controller) - A Kubernetes controller for CUE via Flux.
 * [cue-mode](https://github.com/jdbaldry/cue-mode) -  Emacs major mode for CUE.
 * [cue-mode](https://github.com/russell/cue-mode) - Provides Emacs font-lock, indentation, and some useful functions for the CUE data validation language.
-* [cue-vscode-starter](https://github.com/golem-ai/cue-vscode-starter) - A VS Code Remote Containers project/environment made for CUE
+* [cue-vscode-starter](https://github.com/golem-ai/cue-vscode-starter) - A VS Code Remote Containers project/environment made for CUE.
 * [cue-wasm](https://github.com/dclareio/cue-wasm) - WebAssembly based bindings for CUE in JavaScript.
 * [cue_terraform](https://github.com/tnarg/cue_terraform) -  CUE definitions for terraform providers.
 * [cue4puml4c4](https://github.com/owulveryck/cue4puml4c4) - POC to turn CUE into a plantuml/C4 diagram.
-* [CueBlox](https://github.com/cueblox/blox) - The All-in-One Batteries Included Data Framework
+* [cueBlox](https://github.com/cueblox/blox) - The All-in-One Batteries Included Data Framework
 * [cuebe](https://github.com/loft-orbital/cuebe) - Kubernetes release manager powered by CUE.
 * [cueconfig](https://github.com/cue-exp/cueconfig) - Use CUE to configure your Go programs.
+* [cuegen](https://github.com/noris-network/cuegen) - Cuegen is a tool to build kubernetes resources with CUE.
 * [cueimports](https://github.com/asdine/cueimports) - CUE tool that manages your import lines.
 * [cuelm](https://github.com/hofstadter-io/cuelm) - Pure CUE implementation of Helm Kubernetes package manager.
 * [cuelsp](https://github.com/dagger/cuelsp) - Language Server implementation for CUE, with built-in support for Dagger.
@@ -27,28 +28,32 @@ A curated list of awesome [CUE](https://cuelang.org/) projects, libraries, tools
 * [cuemod](https://github.com/octohelm/cuemod) - Dependency management for CUE without committing cue.mod.
 * [Cuetils](https://github.com/hofstadter-io/cuetils) - CLI and library for diff, patch, and ETL operations on CUE
 * [cuetsy](https://github.com/grafana/cuetsy/) -  Experimental CUE->TypeScript exporter.
+* [cuex](https://github.com/kubevela/pkg/tree/main/cue/cuex) - CUEX: Extended CUE Compiler.
 * [cute](https://github.com/yujinyan/cute) -  A CUE-lang utility.
-* [Dagger](https://dagger.io/) - A portable devkit for CICD
+* [Dagger](https://dagger.io/) - A portable devkit for CICD.
+* [devx](https://github.com/devopzilla/guku-devx) - Build flexible & composable infrastructure abstractions for all your platform engineering tools.
+* [devx-catalog](https://github.com/devopzilla/guku-devx-catalog) - DevX Schema and Catalog.
 * [Encore](https://encore.dev/) - Encore is a Backend Development Engine.
 * [flux-local-dev](https://github.com/stefanprodan/flux-local-dev/blob/main/cue) - Flux local dev environment (CUE).
 * [FRSCA](https://github.com/buildsec/frsca) - Factory for Repeatable Secure Creation of Artifacts.
-* [ghacue](https://github.com/hofstadter-io/ghacue) - GitHub Actions schema in CUE
+* [ghacue](https://github.com/hofstadter-io/ghacue) - GitHub Actions schema in CUE.
 * [grpc-testing](https://github.com/ryoya-fujimoto/grpc-testing) - Testing and helper tool for grpc server, using CUE-lang and grpcurl.
 * [Hofstadter](https://www.hofstadter.io/) - High Code™ - for higher velocity development.
 * [inngest](https://github.com/inngest/inngest) - Inngest is an open-source, event-driven platform.
 * [injecuet](https://github.com/aereal/injecuet) - The injecuet injects concrete values and emits new CUE document.
 * [intellij-cue](https://github.com/monogon-dev/intellij-cue) - IntelliJ support for the CUE language.
 * [kubevela](https://github.com/oam-dev/kubevela) - KubeVela is a modern application delivery platform.
+* [kubevela-catalog](https://github.com/kubevela/catalog) - KubeVela Catalog of community maintained components and traits. 
 * [kuegen](https://github.com/errordeveloper/kuegen) - kuegen is a simple config generator based on CUE.
 * [namespace](https://github.com/namespacelabs/foundation) - Namespace is an application development platform.
 * [NetMeta](https://github.com/monogon-dev/NetMeta) - NetMeta is a scalable network observability toolkit optimized for performance.
 * [packer-plugin-cue](https://github.com/dontlaugh/packer-plugin-cue) - Render files in your Packer builds with CUE.
-* [polly](https://github.com/pollypkg/polly) - Parameterized Observability Packages 
+* [polly](https://github.com/pollypkg/polly) - Parameterized Observability Packages.
 * [rules_cue](https://github.com/tnarg/rules_cue) - CUE rules for Bazel.
 * [rules_cue](https://github.com/seh/rules_cue) -  CUE rules for Bazel.
 * [setup-cue](https://github.com/cue-lang/setup-cue) - GitHub actions workflow to install a specific version of CUE on your runner.
 * [slo-cue](https://github.com/cbrgm/slo-cue) - Generate Prometheus alerting & recording rules for SLOs using CUE.
-* [stax](https://github.com/cue-sh/stax) - Go-based CLI for managing CloudFormation stacks written in CUE
+* [stax](https://github.com/cue-sh/stax) - Go-based CLI for managing CloudFormation stacks written in CUE.
 * [taxes.cue](https://github.com/tmm1/taxes.cue) - A tax organizer and calculator in CUE.
 * [terraform-provider-cue](https://github.com/xinau/terraform-provider-cue) - Terraform provider for interacting with CUE.
 * [Thema](https://github.com/grafana/thema) - A CUE-based framework for portable, evolvable schema.
