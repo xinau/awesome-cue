@@ -45,6 +45,7 @@ A curated list of awesome [CUE](https://cuelang.org/) projects, libraries, tools
 * [kubevela](https://github.com/oam-dev/kubevela) - KubeVela is a modern application delivery platform.
 * [kubevela-catalog](https://github.com/kubevela/catalog) - KubeVela Catalog of community maintained components and traits. 
 * [kuegen](https://github.com/errordeveloper/kuegen) - kuegen is a simple config generator based on CUE.
+* [kuesta](https://github.com/nttcom/kuesta) - Network IaC using CUE.
 * [namespace](https://github.com/namespacelabs/foundation) - Namespace is an application development platform.
 * [netmeta](https://github.com/monogon-dev/NetMeta) - NetMeta is a scalable network observability toolkit optimized for performance.
 * [packer-plugin-cue](https://github.com/dontlaugh/packer-plugin-cue) - Render files in your Packer builds with CUE.
