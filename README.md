@@ -52,6 +52,7 @@ A curated list of awesome [CUE](https://cuelang.org/) projects, libraries, tools
 * [polly](https://github.com/pollypkg/polly) - Parameterized Observability Packages.
 * [rules_cue](https://github.com/tnarg/rules_cue) - CUE rules for Bazel.
 * [rules_cue](https://github.com/seh/rules_cue) -  CUE rules for Bazel.
+* [scuemastore](https://github.com/jpluscplusm/scuemastore) - A CUE module expressing schemastore.org's JSONSchemas in CUE form.
 * [setup-cue](https://github.com/cue-lang/setup-cue) - GitHub actions workflow to install a specific version of CUE on your runner.
 * [slo-cue](https://github.com/cbrgm/slo-cue) - Generate Prometheus alerting & recording rules for SLOs using CUE.
 * [stax](https://github.com/cue-sh/stax) - Go-based CLI for managing CloudFormation stacks written in CUE.
