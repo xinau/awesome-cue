@@ -60,6 +60,7 @@ A curated list of awesome [CUE](https://cuelang.org/) projects, libraries, tools
 * [terraform-provider-cue](https://github.com/xinau/terraform-provider-cue) - Terraform provider for interacting with CUE.
 * [terraform-provider-cue](https://github.com/poseidon/terraform-provider-cue) - Terraform provider for evaluting CUE to render JSON.
 * [thema](https://github.com/grafana/thema) - A CUE-based framework for portable, evolvable schema.
+* [timoni](https://timoni.sh) - A package manager for Kubernetes, powered by CUE and inspired by Helm.
 * [tmdl](https://github.com/abhaybhargav/tmdl) - Threat Model Definition Language using a declarative syntax with CUE.
 * [tree-sitter-cue](https://github.com/eonpatapon/tree-sitter-cue) -  CUE grammar for tree-sitter.
 * [unity](https://github.com/cue-lang/unity) - run experiments/regression tests on CUE modules.
