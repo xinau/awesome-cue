@@ -85,6 +85,7 @@ References
 
 Tutorials/Examples
 
+* [Automata](https://github.com/uhthomas/automata) - Monorepo for Starjunk and subsidiaries
 * [CUE Documentation Tutorials](https://cuelang.org/docs/tutorials/) - CUE tutorials provided as part of the official documentation.
 * [Cuetorials](https://cuetorials.com/) - Tutorial site to learn more about CUE by Hofstadter, Inc.
 * [CUE for Network Configurations](https://github.com/networkop/cue-networking) - Example of using CUE to model baremetal network configurations.
@@ -92,7 +93,6 @@ Tutorials/Examples
 * [Kubernetes Tutorial](https://github.com/cue-lang/cue/blob/v0.4.1/doc/tutorial/kubernetes/README.md) - How to convert Kubernetes configuration files for a collection of microservices.
 
 <!-- * [cue-examples](https://github.com/hofstadter-io/cue-examples) - Random examples demonstrating cuelang -->
-<!-- * [automata](https://github.com/uhthomas/automata) - Monorepo for Starjunk and subsidiaries -->
 
 Articles
 
