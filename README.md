@@ -39,6 +39,7 @@ A curated list of awesome [CUE](https://cuelang.org/) projects, libraries, tools
 * [flux-local-dev](https://github.com/stefanprodan/flux-local-dev/blob/main/cue) - Flux local dev environment (CUE).
 * [frsca](https://github.com/buildsec/frsca) - Factory for Repeatable Secure Creation of Artifacts.
 * [ghacue](https://github.com/hofstadter-io/ghacue) - GitHub Actions schema in CUE.
+* [go-whaturl](https://github.com/staticaland/go-whaturl/) - whaturl replaces URLs found in text with a markup hyperlink.
 * [grpc-testing](https://github.com/ryoya-fujimoto/grpc-testing) - Testing and helper tool for grpc server, using CUE-lang and grpcurl.
 * [hofstadter](https://www.hofstadter.io/) - High Code™ - for higher velocity development.
 * [inngest](https://github.com/inngest/inngest) - Inngest is an open-source, event-driven platform.
