@@ -50,6 +50,7 @@ A curated list of awesome [CUE](https://cuelang.org/) projects, libraries, tools
 * [namespace](https://github.com/namespacelabs/foundation) - Namespace is an application development platform.
 * [netmeta](https://github.com/monogon-dev/NetMeta) - NetMeta is a scalable network observability toolkit optimized for performance.
 * [packer-plugin-cue](https://github.com/dontlaugh/packer-plugin-cue) - Render files in your Packer builds with CUE.
+* [protoc-gen-cue](https://github.com/ornew/protoc-gen-cue) - The protoc plugin for CUE language.
 * [polly](https://github.com/pollypkg/polly) - Parameterized Observability Packages.
 * [rules_cue](https://github.com/tnarg/rules_cue) - CUE rules for Bazel.
 * [rules_cue](https://github.com/seh/rules_cue) -  CUE rules for Bazel.
