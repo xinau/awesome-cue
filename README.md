@@ -160,6 +160,12 @@ This awesome page uses the following style guidelines to make it easier to read.
 2. All lists must be sorted.
 3. The link name in the projects section must be lowercase.
 
+## Contributing
+
+[Fork](https://github.com/xinau/awesome-cue/fork) the repository,
+make changes adhering to the [style guide](#style-guide),
+and [open](https://github.com/xinau/awesome-cue/compare) a pull request.
+
 ## License
 
 This project is under [MIT license](./LICENSE)
