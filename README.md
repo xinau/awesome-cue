@@ -57,6 +57,7 @@ A curated list of awesome [CUE](https://cuelang.org/) projects, libraries, tools
 * [setup-cue](https://github.com/cue-lang/setup-cue) - GitHub actions workflow to install a specific version of CUE on your runner.
 * [slo-cue](https://github.com/cbrgm/slo-cue) - Generate Prometheus alerting & recording rules for SLOs using CUE.
 * [stax](https://github.com/cue-sh/stax) - Go-based CLI for managing CloudFormation stacks written in CUE.
+* [tailor-platform](https://github.com/tailor-platform/templates) - A customizable ERP platform.
 * [taxes.cue](https://github.com/tmm1/taxes.cue) - A tax organizer and calculator in CUE.
 * [terraform-provider-cue](https://github.com/xinau/terraform-provider-cue) - Terraform provider for interacting with CUE.
 * [terraform-provider-cue](https://github.com/poseidon/terraform-provider-cue) - Terraform provider for evaluting CUE to render JSON.
