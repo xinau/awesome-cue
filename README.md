@@ -6,6 +6,8 @@ A curated list of awesome [CUE](https://cuelang.org/) projects, libraries, tools
 
 * [acorn](https://github.com/acorn-io/acorn) - A simple application deployment framework for Kubernetes.
 * [astexplorer-cue](https://github.com/brandonbloom/astexplorer-cue) - Ast Explorer support for CUE.
+* [automata](https://github.com/uhthomas/automata) - Monorepo for Starjunk and subsidiaries
+* [bbq](https://github.com/jakelogemann/bbq) - Generates & validates a docker-bake.json file in CUE.
 * [benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane.
 * [cfn-cue](https://github.com/cue-sh/cfn-cue) - Generated CUE schema from CloudFormation Resource Specification.
 * [cue playground](https://cuelang.org/play/#cue@export@cue) - Interactive playground for CUE.
@@ -89,8 +91,6 @@ References
 
 Tutorials/Examples
 
-* [Automata](https://github.com/uhthomas/automata) - Monorepo for Starjunk and subsidiaries
-* [BBQ](https://github.com/jakelogemann/bbq) - Generates & validates a docker-bake.json file in CUE.
 * [CUE Documentation Tutorials](https://cuelang.org/docs/tutorials/) - CUE tutorials provided as part of the official documentation.
 * [Cuetorials](https://cuetorials.com/) - Tutorial site to learn more about CUE by Hofstadter, Inc.
 * [CUE for Network Configurations](https://github.com/networkop/cue-networking) - Example of using CUE to model baremetal network configurations.
