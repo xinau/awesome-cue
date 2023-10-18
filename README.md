@@ -89,6 +89,7 @@ References
 Tutorials/Examples
 
 * [Automata](https://github.com/uhthomas/automata) - Monorepo for Starjunk and subsidiaries
+* [BBQ](https://github.com/jakelogemann/bbq) - Generates & validates a docker-bake.json file in CUE.
 * [CUE Documentation Tutorials](https://cuelang.org/docs/tutorials/) - CUE tutorials provided as part of the official documentation.
 * [Cuetorials](https://cuetorials.com/) - Tutorial site to learn more about CUE by Hofstadter, Inc.
 * [CUE for Network Configurations](https://github.com/networkop/cue-networking) - Example of using CUE to model baremetal network configurations.
