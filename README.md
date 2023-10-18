@@ -30,6 +30,7 @@ A curated list of awesome [CUE](https://cuelang.org/) projects, libraries, tools
 * [cuetsy](https://github.com/grafana/cuetsy/) -  Experimental CUE->TypeScript exporter.
 * [cuex](https://github.com/kubevela/pkg/tree/main/cue/cuex) - CUEX: Extended CUE Compiler.
 * [cute](https://github.com/yujinyan/cute) -  A CUE-lang utility.
+* [cicero](https://github.com/input-output-hk/cicero) -  event-driven automation for Nomad
 * [dagger](https://dagger.io/) - A portable devkit for CICD.
 * [devx](https://github.com/devopzilla/guku-devx) - Build flexible & composable infrastructure abstractions for all your platform engineering tools.
 * [devx-catalog](https://github.com/devopzilla/guku-devx-catalog) - DevX Schema and Catalog.
