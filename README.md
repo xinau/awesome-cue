@@ -35,6 +35,7 @@ A curated list of awesome [CUE](https://cuelang.org/) projects, libraries, tools
 * [devx](https://github.com/devopzilla/guku-devx) - Build flexible & composable infrastructure abstractions for all your platform engineering tools.
 * [devx-catalog](https://github.com/devopzilla/guku-devx-catalog) - DevX Schema and Catalog.
 * [encore](https://encore.dev/) - Encore is a Backend Development Engine.
+* [envoy-cue](https://github.com/greymatter-io/envoy-cue) - CUE definitions for Envoy.
 * [flux-local-dev](https://github.com/stefanprodan/flux-local-dev/blob/main/cue) - Flux local dev environment (CUE).
 * [frsca](https://github.com/buildsec/frsca) - Factory for Repeatable Secure Creation of Artifacts.
 * [ghacue](https://github.com/hofstadter-io/ghacue) - GitHub Actions schema in CUE.
